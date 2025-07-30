@@ -1,2 +1,4 @@
 # Retail--Data-Analysis
-This project is focused on analyzing retail transaction data to generate key performance indicators , visualize trends, and extract actionable business insights using Python
+## Conducted exploratory data analysis on retail datasets to derive actionable insights and visualize KPIs using Python-based tools.
+## DATASET
+-<a href = "https://github.com/Antara1900/Retail--Data-Analysis/blob/main/Retail_Dataset.csv"> Retail_dataset</a>
